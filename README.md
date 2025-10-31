@@ -14,7 +14,7 @@
 # 安装
 
 ```go
-import "github.com/CN-Syndra/go-wxsqlite3"
+import "github.com/openmindw/go-wxsqlite3"
 ```
 
 # 使用
