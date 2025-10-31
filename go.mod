@@ -1,4 +1,4 @@
-module github.com/CN-Syndra/go-wxsqlite3
+module github.com/openmindw/wxsqlite3
 
 go 1.17
 
